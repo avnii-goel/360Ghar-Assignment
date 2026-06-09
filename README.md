@@ -11,8 +11,9 @@
 </div>
 
 
-## 🌐 Live Demo
-[https://360-ghar-assignment-omega.vercel.app/](https://360-ghar-assignment-omega.vercel.app/)
+## 🌐 Demo
+- **Deployed Link:** - [https://360-ghar-assignment-omega.vercel.app/](https://360-ghar-assignment-omega.vercel.app/)
+- **Loom Video Link:** - [https://www.loom.com/share/8090f4590a564a22a6a1f175e0b6d201](https://www.loom.com/share/8090f4590a564a22a6a1f175e0b6d201)
 
 ---
 
